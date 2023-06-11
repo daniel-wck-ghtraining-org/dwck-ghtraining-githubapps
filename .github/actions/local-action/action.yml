@@ -4,7 +4,7 @@ author: githubtraining
 inputs:
   exercise-token:
     description: GITHUB_TOKEN used to access the API
-    required: true
+    required: false
 
 runs:
   using: node12
